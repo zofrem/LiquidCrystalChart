@@ -1,0 +1,3 @@
+LiquidCrystalChart
+LiquidCrystalChart display bar chart at the display hd44780
+applicable for each standard size 20x04, 16x02, ...
